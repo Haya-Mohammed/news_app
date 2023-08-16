@@ -1,0 +1,19 @@
+{
+  "status":"ok",
+  "totalResults":70,
+  "articles":[
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"اليوم السابع",
+      "title":"أسعار الذهب في مصر اليوم.. آخر تطورات البورصة العالمية - اليوم السابع",
+      "description":null,
+      "url": "https://news.google.com/rss/articles/CBMi3gFodHRwczovL2dhdGUubmlsZTQuY29tLzM1MTQ1NC8lRDklODUlRDglQTglRDglQTclRDglQjQlRDglQjEtJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ5JTg2LSVEOCVCMyVEOCVCOSVEOCVCMS0lRDglQTglRDklODYlRDglQjIlRDklOEElRDklODYtOTUtJUQ5JTg4OTEtJUQ5JTgxJUQ5JThBLSVEOCVBNyVEOSU4NCVEOCVCMyVEOCVCOSVEOSU4OCVEOCVBRiVEOSU4QSVEOCVBOS0yMDIzLSVEOCVBQS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-08-13T13:52:02Z",
+      "content": null
+    }
+  ]
+}
